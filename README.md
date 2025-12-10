@@ -2,7 +2,7 @@ Hi 👋 My name is Ayhan Hakan Tekir
 ==================================
 
 * 🌍  I'm based in Cyprus
-* ✉️  You can contact me at [info@ayhanhakantekir.com](mailto:info@ayhanhakantekir.com)
+* ✉️  You can contact me at [ayhanhakantekir@gmail.com](mailto:info@ayhanhakantekir.com)
 * 🧠  I'm learning Swift
 
 <a href="https://www.twitter.com/ayhan_hakan" target="_blank" rel="noreferrer"><img
