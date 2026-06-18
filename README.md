@@ -4,11 +4,6 @@ Hi 👋 My name is Ayhan Hakan Tekir
 * 🌍  I'm based in Cyprus / Turkey
 * ✉️  You can contact me at [ayhanhakantekir@gmail.com](mailto:info@ayhanhakantekir.com)
 
-<a href="https://www.twitter.com/ayhan_hakan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ayhan_hakan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/ayhanhakan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ayhanhakan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 <p align="left">
